@@ -1,0 +1,14 @@
+{
+  "name": "Extract-css-webpack-plugin",
+  "version": "1.0.0",
+  "description": "``` javascript require(\"./style.css\"); require(\"./styleA.css\"); ```",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
+}
